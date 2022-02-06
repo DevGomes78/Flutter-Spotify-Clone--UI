@@ -1,6 +1,5 @@
 # Clone Spotify UI 
 ![spotfy](https://user-images.githubusercontent.com/98062365/152699480-5b55c64a-6411-4d63-acd4-4cee10f32849.gif)
-
 ![spotfly2](https://user-images.githubusercontent.com/98062365/152699481-19a84615-e904-4f22-ae9c-63800b8445c5.gif)
 
 
